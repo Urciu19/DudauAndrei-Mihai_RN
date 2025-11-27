@@ -1,2 +1,5 @@
 # DudauAndrei-Mihai_RN
-Proiect Retele Neuronale
+Proiect Rețele Neuronale  
+Student: Dudău Andrei-Mihai  
+UNSTPB – FIIR  
+632AB
