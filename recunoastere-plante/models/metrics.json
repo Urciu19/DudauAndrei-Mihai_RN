@@ -1,0 +1,21 @@
+{
+  "test_loss": 0.14834606647491455,
+  "test_accuracy": 1.0,
+  "classes": [
+    "clopotel",
+    "floarecolt",
+    "papadie",
+    "patlagina"
+  ],
+  "img_size": [
+    150,
+    150
+  ],
+  "batch_size": 2,
+  "split": [
+    0.8,
+    0.1,
+    0.1
+  ],
+  "note": "Train/Val/Test split generat automat din data/processed."
+}

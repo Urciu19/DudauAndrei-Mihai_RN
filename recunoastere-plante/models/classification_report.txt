@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+    clopotel     0.6000    1.0000    0.7500         3
+  floarecolt     1.0000    0.3333    0.5000         3
+     papadie     1.0000    1.0000    1.0000         3
+   patlagina     1.0000    1.0000    1.0000         3
+
+    accuracy                         0.8333        12
+   macro avg     0.9000    0.8333    0.8125        12
+weighted avg     0.9000    0.8333    0.8125        12
